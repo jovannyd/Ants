@@ -1,0 +1,9 @@
+Building Ant
+
+See doc/readme-qt.rst for instructions on building Ant QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ant.
+
+See doc/build-*.txt for instructions on building antd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ant.
